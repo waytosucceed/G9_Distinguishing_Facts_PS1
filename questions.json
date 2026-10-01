@@ -1,0 +1,213 @@
+{
+  "heading": "G9NL_Distinguishing Facts from Opinions(MCQ)",
+  "topics": [
+    {
+      "heading": "Distinguishing Facts from Opinions(MCQ)",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "Which of the following is an opinion?"
+    ],
+    "options": [
+      { "text": "The Berlin Wall fell on the 9th of November, 1989." },
+      { "text": "Honey is the only natural food that never expires." },
+      { "text": "Coffee is undoubtedly the greatest beverage ever discovered by mankind." },
+      { "text": "The human body is made up of approximately sixty per cent water." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Which of the following is a fact?"
+    ],
+    "options": [
+      { "text": "Dogs make far better pets than cats because they are more loyal and affectionate." },
+      { "text": "Football is the world's most exciting sport and no other sport comes close." },
+      { "text": "The Great Barrier Reef, located off the coast of Australia, is the world's largest coral reef system." },
+      { "text": "Summer is the best season of the year because the days are longer and the weather is warmer." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A teacher writes the following sentence on the board:<br><b><i>\"Neil Armstrong became the first human being to walk on the Moon on the 20th of July, 1969.\"</i></b><br><b>She then asks: Why is this a fact and not an opinion?</b>"
+    ],
+    "options": [
+      { "text": "Because it is about a famous event that most people have heard of, making it widely accepted as true" },
+      { "text": "Because it does not contain any evaluative language such as 'best' or 'most impressive'" },
+      { "text": "Because it contains a named individual, a specific achievement, and a specific date that can be verified through historical records and documented evidence" },
+      { "text": "Because the sentence is written in a confident, authoritative tone that signals reliability" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A teacher writes the following sentence on the board:<br><b><i>\"Given the current rate of deforestation, the Amazon rainforest will be completely destroyed within fifty years.\"</i></b><br><b>She then asks: Why is this an opinion and not a fact?</b>"
+    ],
+    "options": [
+      { "text": "Because it is about the environment, and environmental topics are always matters of opinion" },
+      { "text": "Because it uses the word 'completely,' which is always a signal of exaggeration rather than fact" },
+      { "text": "Because it is a prediction about the future that cannot be proven true at the moment it is stated, even though it may be supported by evidence" },
+      { "text": "Because it does not cite a specific source or research institution to support the claim" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A teacher asks two students to write a sentence about the ocean.<br> <b><i>Daniel writes:\"The Pacific Ocean is the deepest ocean on Earth, with the Mariana Trench reaching a depth of approximately eleven kilometres.\"</i></b><br> <b><i>Priya writes: \"The ocean is the most peaceful and humbling environment a person can ever experience.\"</i></b><br>Which student wrote a fact?"
+    ],
+    "options": [
+      { "text": "Only Daniel" },
+      { "text": "Only Priya" },
+      { "text": "Both Daniel and Priya" },
+      { "text": "Neither Daniel nor Priya" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A teacher asks two students to write a sentence about studying.<br> <b><i>Fatima writes: \"Research by the American Psychological Association suggests that spaced repetition improves long-term memory retention more effectively than last-minute cramming.\"</i></b><br> <b><i>Carlos writes: \"Students who cram the night before an exam are simply being irresponsible and do not deserve to pass.\"</i></b><br>Which student wrote an opinion?"
+    ],
+    "options": [
+      { "text": "Only Fatima" },
+      { "text": "Only Carlos" },
+      { "text": "Both Fatima and Carlos" },
+      { "text": "Neither Fatima nor Carlos" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Read the following sentence:<br><b><i>\"Antarctica is the coldest continent on Earth and is completely uninhabitable for human beings.\"</i></b><br>Which part of the sentence is a fact and which part is an opinion?"
+    ],
+    "options": [
+      { "text": "'Coldest continent' is the opinion and 'completely uninhabitable' is the fact" },
+      { "text": "Both parts are facts because both describe measurable conditions on Antarctica" },
+      { "text": "'Coldest continent' is the fact and 'completely uninhabitable' is the opinion" },
+      { "text": "Both parts are opinions because weather conditions and habitability are subjective experiences" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Read the following sentence:<br><b><i>\"The school library opened in 2003 and is the most important resource available to students.\"</i></b><br>Which part of the sentence is a fact and which part is an opinion?"
+    ],
+    "options": [
+      { "text": "'Opened in 2003' is the opinion and 'most important resource' is the fact" },
+      { "text": "'Opened in 2003' is the fact and 'most important resource' is the opinion" },
+      { "text": "Both parts are facts because they both describe the school library" },
+      { "text": "Both parts are opinions because the opening date could be misremembered and importance is subjective" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Which of the following sentences contains a signal word or phrase that marks it as an opinion rather than a fact?"
+    ],
+    "options": [
+      { "text": "\"The Nile River is approximately 6,650 kilometres long and flows through northeastern Africa.\"" },
+      { "text": "\"In 1928, Alexander Fleming discovered penicillin, which became the world's first widely used antibiotic.\"" },
+      { "text": "\"Renewable energy is undoubtedly the superior choice and governments should abandon fossil fuels immediately.\"" },
+      { "text": "\"The human eye can distinguish approximately ten million different colours.\"" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A teacher gives four sentences and asks the class to find the one that contains a signal word marking it as an opinion. Which sentence is it?"
+    ],
+    "options": [
+      { "text": "\"The human heart beats approximately seventy times per minute at rest.\"" },
+      { "text": "\"The currency of Japan is the yen, which was officially adopted in 1871.\"" },
+      { "text": "\"In my opinion, online learning is far less effective than traditional classroom education.\"" },
+      { "text": "\"The speed of light in a vacuum is approximately 299,792 kilometres per second.\"" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Complete the following sentence using the correct option:<br><b><i>Despite losing two major clients and facing mounting debts, the once-successful merchant became increasingly __________ and struggled to maintain his business operations.</i></b>"
+    ],
+    "options": [
+      { "text": "indefatigable" },
+      { "text": "sublimity" },
+      { "text": "impecunious" },
+      { "text": "go against the grain" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "What is the meaning of the idiom \"Go against the grain\"?"
+    ],
+    "options": [
+      { "text": "To separate useful information from useless details." },
+      { "text": "To act in a way that is different from what is usual or expected." },
+      { "text": "To work tirelessly without becoming exhausted." },
+      { "text": "To achieve greatness through perseverance." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Complete the following sentence using the correct option:<br><b><i>The rescue team's __________ efforts continued throughout the night as they searched the mountains despite freezing temperatures and dangerous conditions.</i></b>"
+    ],
+    "options": [
+      { "text": "sublimity" },
+      { "text": "separate the grain from the chaff" },
+      { "text": "impecunious" },
+      { "text": "indefatigable" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "What is the meaning of the expression \"Separate the grain from the chaff\"?"
+    ],
+    "options": [
+      { "text": "To distinguish valuable or important things from those that are worthless or unimportant." },
+      { "text": "To oppose popular opinion or social expectations." },
+      { "text": "To continue working despite exhaustion." },
+      { "text": "To appreciate beauty and magnificence in nature." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "Complete the following sentence using the correct option:<br><b><i>Standing before the towering snow-covered mountains, the travellers were overwhelmed by the sheer __________ of the landscape stretching before them.</i></b>"
+    ],
+    "options": [
+      { "text": "impecunious" },
+      { "text": "indefatigable" },
+      { "text": "sublimity" },
+      { "text": "go against the grain" }
+    ],
+    "answer": 2
+  }
+
+
+]
+
+
+
+
+    }
+  ]
+}
